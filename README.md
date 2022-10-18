@@ -32,14 +32,14 @@
 
 <p float="middle">  
 <a href="https://www.credly.com/earner/earned/badge/79e8570f-ce4d-4970-813f-6a4d1564d5c2" target="blank">
-  <img align="center" src="https://images.credly.com/size/680x680/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png" alt="Google IT Automation with Python" height="150" width="150" hspace="50" /></a>
+  <img align="center" src="https://images.credly.com/size/680x680/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png" alt="Google IT Automation with Python" height="150" width="150" hspace="60" /></a>
 
 <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/56236623" target="blank">
-  <img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/56236623" alt="TensorFlow Developer" height="150" width="150" hspace="50" /></a>  
+  <img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/56236623" alt="TensorFlow Developer" height="150" width="150" hspace="60" /></a>  
   
   
 <a href="https://www.credly.com/earner/earned/badge/36f7a072-28ff-4358-a72a-f41c6ffa5591" target="blank">
-  <img align="center" src="https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="Google Data Analytics" height="150" width="150" hspace="50" /></a>
+  <img align="center" src="https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="Google Data Analytics" height="150" width="150" hspace="60" /></a>
 </p>
 
 
