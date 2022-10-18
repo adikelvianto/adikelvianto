@@ -12,7 +12,7 @@
 
 <h3 align="center">Hi! 👋 My name is Adi Kelvianto </h3>
 <h4 align="center">Fresh Graduate from Institut Teknologi Bandung, majoring in Aerospace Engineering</h4>
-<h4 align="center">I'm a data enthusiast and I love to create **Machine Learning** project</h4>
+<h4 align="center">I'm a data enthusiast and I love to create Machine Learning project</h4>
 
 <hr/>
 
