@@ -1,10 +1,5 @@
-### Hi there 👋
 
 <!--
-**adikelvianto/adikelvianto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,27 +10,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi! 👋, I'm Adi Kelvianto</h1>
-<h3 align="center">Fresh Graduate from Institut Teknologi Bandung</h3>
+<h3 align="center">Hi! 👋 My name is Adi Kelvianto </h3>
+<h4 align="center">Fresh Graduate from Institut Teknologi Bandung, majoring in Aerospace Engineering</h4>
+<h4 align="center">I'm a data enthusiast and I love to create **Machine Learning** project</h4>
+
+<hr />
 
 
-- 🔭 I’m currently working on **APIK Indonesia as Android Developer Intern**
+- 🔭 I’m currently looking for a job as **data scientist** or **data analyst**
 
-- 🌱 I’m currently learning **Android Development with Kotlin and jetpack compose**
+- 🌱 I’m currently learning about **back-end development using AWS**
 
-- 👨‍💻 All of my projects are available at [My Website](https://gif-tech.web.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://adikelvianto.github.io/Adi_Kelvianto/)
 
-- 📫 How to reach me **id.giftech@gmail.com**
+- 📫 How to reach me **adikelvianto2906@gmail.com**
 
-- 📄 Know about my experiences [Portfolio](https://s.id/GalihifPortfolio)
+-  <a href="https://www.linkedin.com/in/adi-kelvianto" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/gVE0j.png">&nbsp;</a> Connect with me through [LinkedIn](https://www.linkedin.com/in/adi-kelvianto)
 
-
-### :point_down: Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/galihif/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/galihif/" height="30" width="40" /></a>
-
-<a href="https://www.hackerrank.com/galgadut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="galgadut24" height="30" width="40" /></a>
-</p>
 
 ### :medal_military: My Badge
 
