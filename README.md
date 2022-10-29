@@ -23,7 +23,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://adikelvianto.github.io/Adi_Kelvianto/)
 
-- 📫 How to reach me **adikelvianto2906@gmail.com**
+- 📫 Reach me through **adikelvianto2906@gmail.com**
 
 -  <a href="https://www.linkedin.com/in/adi-kelvianto/" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/gVE0j.png">&nbsp;</a> Connect with me through [LinkedIn](https://www.linkedin.com/in/adi-kelvianto/)
 
