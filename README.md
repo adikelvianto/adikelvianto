@@ -14,6 +14,12 @@
 <h4 align="center">Fresh Graduate from Institut Teknologi Bandung, majoring in Aerospace Engineering</h4>
 <h4 align="center">I'm a data enthusiast and I love to create Machine Learning project</h4>
 
+<p align="center">
+  <a href="https://github.com/your-username">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adikelvianto&layout=compact&theme=algolia" alt="Top Programming Languages" width="400" height="300" />
+  </a>
+</p>
+
 <hr/>
 
 
