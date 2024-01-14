@@ -23,11 +23,11 @@
 <hr/>
 
 
-- 🔭 I’m currently looking for a job as **data scientist** or **data analyst**
+- 🔭 I'm curently working on Citilink Indonesia as a Reliability Engineer handling **Data Alliance**
 
-- 🌱 I’m currently learning about **back-end development using AWS**
+- 🌱 I’m currently looking for a job as **data scientist** or **data analyst**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://adikelvianto.github.io/Adi_Kelvianto/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://adikelvianto.netlify.app/)
 
 - 📫 Reach me through **adikelvianto2906@gmail.com**
 
